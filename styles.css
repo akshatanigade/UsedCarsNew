@@ -1,0 +1,12 @@
+/* CSS file for animations, car carousel, parallax effect, dark mode, etc. */
+
+/* Example animation */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Initial styling - to be expanded upon */
+body {
+  animation: fadeIn 2s ease-in-out;
+}
